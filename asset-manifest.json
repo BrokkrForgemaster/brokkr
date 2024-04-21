@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brokkr/static/css/main.76e70f26.css",
+    "main.js": "/brokkr/static/js/main.23d56619.js",
+    "static/media/banner2.png": "/brokkr/static/media/banner2.2a462579d973a364f58b.png",
+    "static/media/HWlogo.svg": "/brokkr/static/media/HWlogo.360c913e764188818cc9379584d40402.svg",
+    "static/media/CS_REGULAR.TTF": "/brokkr/static/media/CS_REGULAR.3e6e63e5df47125825fe.TTF",
+    "index.html": "/brokkr/index.html",
+    "main.76e70f26.css.map": "/brokkr/static/css/main.76e70f26.css.map",
+    "main.23d56619.js.map": "/brokkr/static/js/main.23d56619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e70f26.css",
+    "static/js/main.23d56619.js"
+  ]
+}
